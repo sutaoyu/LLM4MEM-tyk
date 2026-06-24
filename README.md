@@ -10,7 +10,7 @@ LLM4MEM: Unlocking the Power of Large Lanaguage Models for Multi-Table Entity Ma
 ## How 2 Start
 creat a new env and pip Requirements:
 ```
-pyhton-sklearn,pandas,numpy,sentence-transformers,networkx,joblib,hnswlib,tyro,pyfunctional,loguru,vllm,openAI,modelscope
+python-sklearn,pandas,numpy,sentence-transformers,networkx,joblib,hnswlib,tyro,pyfunctional,loguru,vllm,openAI,modelscope
 ```
 
 download LLM model
